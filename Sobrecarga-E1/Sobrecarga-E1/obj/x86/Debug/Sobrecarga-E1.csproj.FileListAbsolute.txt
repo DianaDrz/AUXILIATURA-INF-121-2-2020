@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\SharpDevelop Projects\Sobrecarga-E1\Sobrecarga-E1\bin\Debug\Sobrecarga-E1.exe
+C:\Users\pc\Documents\SharpDevelop Projects\Sobrecarga-E1\Sobrecarga-E1\bin\Debug\Sobrecarga-E1.pdb
+C:\Users\pc\Documents\SharpDevelop Projects\Sobrecarga-E1\Sobrecarga-E1\obj\x86\Debug\Sobrecarga-E1.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\SharpDevelop Projects\Sobrecarga-E1\Sobrecarga-E1\obj\x86\Debug\Sobrecarga-E1.exe
+C:\Users\pc\Documents\SharpDevelop Projects\Sobrecarga-E1\Sobrecarga-E1\obj\x86\Debug\Sobrecarga-E1.pdb
